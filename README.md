@@ -5,7 +5,8 @@ This project utilizes HTML, CSS, and JavaScript to create a user-friendly interf
 1. HTML
 2. CSS
 3. JavaScript
-
+# Deployed Link
+https://aman242003.github.io/PasswordGen/
 # Features
 Customizable Parameters: Select the length and include/exclude uppercase letters, lowercase letters, numbers, and special characters.
 Generate Password: Click a button to generate a random password based on selected criteria.
